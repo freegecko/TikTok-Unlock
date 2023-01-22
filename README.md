@@ -8,6 +8,7 @@
 * [Loon](#Loon)
 * [Surge](#Surge)
 * [Shadowrocket](#Shadowrocket)
+* [机场：自由壁虎](https://freegecko.com)
 * [抓包降级](#抓包降级)
 * [抖音無法觀看](#抖音)
 * [抖音IP代理](#抖音IP代理)
