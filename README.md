@@ -43,7 +43,7 @@
  
      * 可在美区/日区等 App Store 获取
 
-- 自备代理，ss/ssr/vmess等  
+- 自备代理[机场：自由壁虎](https://www.freegecko.com)  
 
 ---
 
